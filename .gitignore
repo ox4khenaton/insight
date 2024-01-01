@@ -1,0 +1,62 @@
+*.pyc
+*.py~
+*.comp.js
+*.DS_Store
+locale
+.wnf-lang-status
+*.swp
+*.egg-info
+dist/
+# build/
+.vscode
+.vs
+node_modules
+.kdev4/
+*.kdev4
+*debug.log
+insights/docs/current
+insights/public/frontend
+insights/www/insights.html
+.nyc_output
+coverage/
+
+# Distribution / packaging
+.Python
+# build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
